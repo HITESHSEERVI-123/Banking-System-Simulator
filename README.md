@@ -32,9 +32,9 @@ This project simulates the core functionalities of a modern banking system. It a
 ```text
 Banking-System-Simulator/
 │
-├── Authentication/main.py
-├── Transaction History/
-└── User Data Base/
+├── Authentication/main.py and more 
+├── Transaction History/ more 
+└── User Data Base/ 
 ```
 
 ## Installation
